@@ -1,5 +1,4 @@
-# scripts
-Random Pentesting Scripts
+**Random Pentesting Scripts**
 
 List payloads
 =============
